@@ -45,3 +45,7 @@ Shortnest simplifies URL shortening for efficient sharing. Easily generate, mana
 <img src="./url-shortener-react/public/images/shortnest-logo.jpg" alt="Shortnest UI" width="600" />
 
 ---
+
+## 📝 License
+
+This project is licensed under the [MIT License](LICENSE).

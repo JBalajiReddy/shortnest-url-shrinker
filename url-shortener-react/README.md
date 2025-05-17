@@ -17,6 +17,6 @@
   - Netlify (Global CDN, Automatic SSL, Continuous Deployment)
 
 ## 🔗 Live Demo
-👉 [https://timely-pothos-a531e9.netlify.app/](https://timely-pothos-a531e9.netlify.app/)
+👉 [https://shortnest-jbr.netlify.app/](https://shortnest-jbr.netlify.app/)
 
 

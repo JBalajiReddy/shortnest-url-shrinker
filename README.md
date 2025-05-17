@@ -2,7 +2,7 @@
 
 **Smart and secure URL shortener** with JWT authentication, real-time analytics, and full-stack deployment.
 
-🔴 Live Demo: [timely-pothos-a531e9.netlify.app](https://timely-pothos-a531e9.netlify.app/)
+🔴 Live Demo: [https://shortnest-jbr.netlify.app/](https://shortnest-jbr.netlify.app/)
 
 ---
 
